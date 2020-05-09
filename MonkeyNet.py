@@ -3,7 +3,6 @@
 
 """
 Setting Operating System Variable 'KAGGLE_USERNAME' as theroyakash. 
-
 You can download your 'KAGGLE_KEY' from kaggle's accounts settngs.
 """
 import os
