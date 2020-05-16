@@ -2,7 +2,7 @@
 Classifies different species of monkeys, with deep convolutional neural network. For only 30 epoch I achieve 68% accuracy with a custom designed network architecture.
 
 ## Dataset
-Let's talk about how you can download the data, first you can download the data from [here](www.kaggle.com/slothkong/10-monkey-species)>.
+Let's talk about how you can download the data, first you can download the data from [here](https://www.kaggle.com/slothkong/10-monkey-species)>.
 
 or if you are using google colab or any Jupyter Notebook environment you can run the following command in the cell:
 ```python
