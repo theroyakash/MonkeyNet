@@ -1,7 +1,5 @@
 # MonkeyNet
 
-> New version coming this Fall
-
 Classifies different species of monkeys, with deep convolutional neural network. For only 30 epoch I achieve 68% accuracy with a custom designed network architecture.
 
 ## Dataset
@@ -19,6 +17,10 @@ You can find your kaggle key from account settings by downloading a JSON file. N
 !kaggle datasets download -d slothkong/10-monkey-species
 ```
 Or you can also use the `terminal`. ZSH or Bash will do. `eff` the windows. Please don't use windows for your DNN training.
+
+## Using transfer learning from InceptionV3
+Using transfer learning from InceptionV3 we've managed to get a whooping 96.63% validation accuracy. See the transfer.ipynb file.
+
 
 ## Accuracy
 ![Imgur1](https://i.imgur.com/LL2dVgg.png)
